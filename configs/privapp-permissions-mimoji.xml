@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+
+    <privapp-permissions package="com.xiaomi.mimoji">
+        <permission name="android.permission.CAMERA"/>
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.WRITE_MEDIA_STORAGE"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.PACKAGE_USAGE_STATS"/>
+    </privapp-permissions>
+
+</permissions>
